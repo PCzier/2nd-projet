@@ -168,4 +168,20 @@ body{
         margin: 2em 2em;
     }
     
+    .secundario{
+        margin: 0;
+        text-align: center;
+    }
+
+    .secundario__botao{
+        width: 50vw;
+    }
+
+    .dispositivos__lista{
+        display: block;
+    }
+
+    .rodape__lista{
+        display: block;
+    }
 }
